@@ -108,7 +108,12 @@ A license may be added later to define how the project's source code and assets 
 
 ---
 
-\<p align="center">
-&#x20; \<strong>SHADOW PROTOCOL\</strong>\<br>
-&#x20; \<em>One mission. No second chances.\</em>
-\</p>
+---
+
+<div align="center">
+
+**SHADOW PROTOCOL**
+
+*One mission. No second chances.*
+
+</div>
